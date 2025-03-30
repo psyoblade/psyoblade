@@ -1,4 +1,5 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpsyoblade%2Fhit-counter)](https://hits.seeyoufarm.com)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=park.suhyuk.psyoblade)
+
 <br>
 [![psyOblade's github stats](https://github-readme-stats.vercel.app/api?username=psyoblade)](https://github.com/psyoblade)
 
