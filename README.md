@@ -1,4 +1,4 @@
-[Hits](https://visitor-badge.laobi.icu/badge?page_id=park.suhyuk.psyoblade)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=park.suhyuk.psyoblade)
 
 <br>
 [![psyOblade's github stats](https://github-readme-stats.vercel.app/api?username=psyoblade)](https://github.com/psyoblade)
